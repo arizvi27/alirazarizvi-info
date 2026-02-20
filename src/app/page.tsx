@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 const socials = [
-  { label: "LinkedIn", href: "https://www.linkedin.com/in/alirazarizvi" },
-  { label: "GitHub", href: "https://github.com/alirazarizvi" },
-  { label: "Email", href: "mailto:hello@alirazarizvi.info" }
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/rizvia4743" },
+  { label: "GitHub", href: "https://github.com/arizvi27" },
+  { label: "Email", href: "mailto:ali63017@icloud.com" }
 ];
 
 export default function Home() {
