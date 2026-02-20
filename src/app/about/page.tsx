@@ -45,13 +45,6 @@ const experience = [
   }
 ];
 
-const traits = [
-  "Chip design focus: DV, PD, STA; comfortable reading timing and balancing PPA trade-offs.",
-  "Architecture & systems: enjoy cache coherency, memory hierarchy, branch prediction problems.",
-  "Teaching & mentoring: TA for Digital Design Lab; peer advising at GT.",
-  "Communication: concise async notes and reports that unlock decisions."
-];
-
 export default function AboutPage() {
   return (
     <div className="section stack">
