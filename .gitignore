@@ -1,0 +1,7 @@
+.next
+node_modules
+.env.local
+.turbo
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log*
